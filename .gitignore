@@ -1,3 +1,13 @@
 .ipynb_checkpoints
 __pycache__
 *.log
+.git
+datasets
+input
+output
+template
+ส่งมอบ
+reduce_process_spark-automate.ipynb
+reduce_process_spark-manual.ipynb
+roll wuwa.txt
+twitter.txt
